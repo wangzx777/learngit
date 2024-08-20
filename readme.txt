@@ -7,6 +7,3 @@ i want to change the third
 creating a branch is fast
 <<<<<<< HEAD
 creating a branch is fast AND easy 
-=======
-ceating a branch is fast and esay
->>>>>>> feature1
